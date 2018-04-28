@@ -1,1 +1,1 @@
-Finished up to step three of the Ch 1 drill. Resume at step 4.
+At Exercise 3 of Chapter 1.
