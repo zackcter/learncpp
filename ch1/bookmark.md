@@ -1,1 +1,0 @@
-At Exercise 3 of Chapter 1.
