@@ -7,7 +7,8 @@ using namespace std;
 
 int main() {
     string name;
-    double age_years = -1.0; // interestingly, this does not prevent age_years from being garbage if given a string...
+    double age_years = -1.0; // interestingly, this does not prevent age_
+    // years from being garbage if given a string...
     double age_months = -1.0;
 
     cout << "Please enter your first name and age in years.\n";
@@ -19,5 +20,4 @@ int main() {
         << " months old.\n";
     
     return 0;
-
 }
